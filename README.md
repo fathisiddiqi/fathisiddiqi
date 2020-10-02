@@ -3,7 +3,6 @@
 ## I am a Software Engineer, Web Developer, Freelancer, and Student
 - :school: I'm currenlty learning at University
 - :bookmark_tabs: I'm currently learning MERN Stack and Docker
-[comment]: - :hammer: I'm looking for new project (please contact me if you want to make a website on Telegram)
 
 ### Connect with me
 
