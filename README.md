@@ -1,6 +1,6 @@
 ### Hi there, I am Fathi
 
-## I am a Software Engineer, Web Developer, Freelancer, and Student
+## I am a Software Engineer, Freelancer, and Student
 - :school: I'm currenlty learning at University
 - :bookmark_tabs: I'm currently learning MERN Stack and Docker
 
