@@ -2,7 +2,7 @@
 
 ## I am a Software Engineer, Freelancer, and Student
 - :school: I'm currenlty learning at University
-- :bookmark_tabs: I'm currently learning MERN Stack and Docker
+- :bookmark_tabs: I'm currently learning Golang
 
 ### Connect with me
 
