@@ -17,8 +17,8 @@ Here are some ideas to get you started:
 
 ### 
 
-## I am a Software Engineer, Startup Enthusiast and Student
-- :school: I'm currenlty learning at University
+## I am a Startup Enthusiast and Software Engineer
+- :find: I'm currenlty finding job opportunities
 - 🌱 I’m currently learning Golang
 - 🔭 I’m currently working on building my own startup -> [check it out](https://ubaform.com)
 
