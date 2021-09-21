@@ -18,9 +18,9 @@ Here are some ideas to get you started:
 ### 
 
 ## I am a Startup Enthusiast and Software Engineer
-- :find: I'm currenlty finding job opportunities
-- 🌱 I’m currently learning Golang
-- 🔭 I’m currently working on building my own startup -> [check it out](https://ubaform.com)
+- :briefcase: I'm currenlty finding job opportunities
+- 🌱 I’m currently learning Golang and Backend Engineering
+<!-- - 🔭 I’m currently working on building my own startup -> [check it out](https://ubaform.com) -->
 
 ### Connect with me
 
