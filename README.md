@@ -18,9 +18,9 @@ Here are some ideas to get you started:
 ### 
 
 ## I am a Startup Enthusiast and Software Engineer
-- :briefcase: I'm currenlty finding job opportunities
+- 🔭 I’m currently working on building my own startup
+- 🔭 I’m currently working as a fullstack engineer (freelance)
 - 🌱 I’m currently learning Golang and Backend Engineering
-<!-- - 🔭 I’m currently working on building my own startup -> [check it out](https://ubaform.com) -->
 
 ### Connect with me
 
