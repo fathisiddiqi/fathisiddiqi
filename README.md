@@ -20,7 +20,7 @@ Here are some ideas to get you started:
 ## I am Startup Enthusiast, Freelancer and Software Engineer
 <!-- - 🔭 I’m currently working on building my own startup -->
 - 🔭 I’m currently working as a fullstack engineer (freelance)
-- 🌱 I’m currently learning Golang and Backend Engineering
+- 🌱 I’m currently learning Backend Engineering
 
 ### Connect with me
 
