@@ -22,6 +22,9 @@ Here are some ideas to get you started:
 - 🔭 I’m currently working as a Software Engineer (fullstack & backend)
 - 🌱 I’m currently learning Backend Engineering
 
+### Let's Know Me on Second Github Account
+[<img align="left" alt="codefta|github" width="22px" src="https://avatars.githubusercontent.com/u/110512198?s=200&v=4" />]
+
 ### Connect with me
 
 [<img align="left" alt="fathisiddiqi|facebook" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/facebook.svg" />](https://web.facebook.com/fathisiddiqi)
