@@ -23,7 +23,7 @@ Here are some ideas to get you started:
 - 🌱 I’m currently learning Backend Engineering
 
 ### Let's Know Me on Second Github Account
-[<img align="left" alt="codefta|github" width="22px" src="https://avatars.githubusercontent.com/u/110512198?s=200&v=4" />](https://github.com/codefta) Codefta
+[<img align="left" alt="codefta|github" width="22px" src="https://avatars.githubusercontent.com/u/110512198?s=200&v=4" />Codefta](https://github.com/codefta) 
 
 ### Connect with me
 
