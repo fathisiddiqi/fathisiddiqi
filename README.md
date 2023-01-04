@@ -20,7 +20,7 @@ Here are some ideas to get you started:
 ## I am Startup Enthusiast and Software Engineer
 <!-- - 🔭 I’m currently working on building my own startup -->
 - 🔭 I’m currently working as a Software Engineer
-- 🌱 I’m currently learning Backend Engineering
+- 🌱 I’m currently building a startup
 
 ### Let's Know Me on Second Github Account
 [<img align="left" alt="codefta|github" width="22px" src="https://avatars.githubusercontent.com/u/110512198?s=200&v=4" />Codefta](https://github.com/codefta) 
