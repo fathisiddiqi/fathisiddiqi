@@ -27,7 +27,7 @@ Here are some ideas to get you started:
 
 ### Connect with me
 
-[<img align="left" alt="fathisiddiqi|facebook" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/facebook.svg" />](https://web.facebook.com/fathisiddiqi)
+[<img align="left" alt="fathisiddiqi|twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />](https://x.com/fathisiddiqi)
 [<img align="left" alt="fathisiddiqi|linkedin" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />](https://www.linkedin.com/in/fathisiddiqi/)
 [<img align="left" alt="fathisiddiqi|facebook" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/telegram.svg" />](https://t.me/fathisiddiqi)
 
