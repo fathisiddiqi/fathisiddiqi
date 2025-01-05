@@ -22,13 +22,11 @@ Here are some ideas to get you started:
 - 🔭 I’m currently working as a Software Engineer at Property Company
 - 🌱 Currently, building [Vulus App](https://play.google.com/store/apps/details?id=com.famisoft.yahfa)
 
-### Let's Know Me on Second Github Account
-[<img align="left" alt="codefta|github" width="22px" src="https://avatars.githubusercontent.com/u/110512198?s=200&v=4" />Codefta](https://github.com/codefta) 
-
 ### Connect with me
 
 [<img align="left" alt="fathisiddiqi|twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />](https://x.com/fathisiddiqi)
 [<img align="left" alt="fathisiddiqi|linkedin" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />](https://www.linkedin.com/in/fathisiddiqi/)
+[<img align="left" alt="fathisiddiqi|linkedin" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/medium.svg" />](https://medium.com/@fathisiddiqi)
 
 
 <br />
@@ -41,7 +39,7 @@ Here are some ideas to get you started:
 <img align="left" width="22px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/nodejs/nodejs.png" />
 <img align="left" width="22px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/go/go.png" />
 <img align="left" width="22px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/mongodb/mongodb.png" />
-<img align="left" width="22px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/mysql/mysql.png" />
+<img align="left" width="22px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/postgresql/postgresql.png" />
 <img align="left" width="22px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/git/git.png" />
 <img align="left" width="22px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/linux/linux.png" />
 <br />
