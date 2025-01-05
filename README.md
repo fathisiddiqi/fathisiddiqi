@@ -2,7 +2,7 @@
 
 ## Software Engineer passionate about building impactful solutions
 
-🏢 Currently, working at property company as a Fullstack Engineer
+🏢 Currently, working at property company as a Software Engineer (Fullstack)
 
 🚀 Building in my free time:
 - [Vulus App](https://play.google.com/store/apps/details?id=com.famisoft.yahfa) - Mobile application helping people to track and record saving
