@@ -35,9 +35,9 @@
 [![Medium](https://img.shields.io/badge/Medium-12100E?style=for-the-badge&logo=medium&logoColor=white)](https://medium.com/@fathisiddiqi)
 
 ### GitHub Stats
-![Your GitHub stats](https://github-readme-stats.vercel.app/api?username=fathisiddiqi&show_icons=true&theme=radical)
+![Your GitHub stats](https://github-readme-stats.vercel.app/api?username=fathisiddiqi&show_icons=true&theme=merko)
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=fathisiddiqi&layout=compact&theme=radical)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=fathisiddiqi&layout=compact&theme=merko)
 
 ---
 💬 Feel free to reach out if you want to talk about tech, collaboration opportunities, or just chat!
