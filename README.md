@@ -21,7 +21,7 @@
 </p>
 
 - **Frontend**: React, NextJS
-- **Backend**: Go, Postgres
+- **Backend**: Go, Postgres, MongoDB
 - **Mobile**: React Native, Android
 - **Tools**: Git, Docker, VS Code, Android Studio
 
