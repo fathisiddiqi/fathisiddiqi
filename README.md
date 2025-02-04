@@ -6,6 +6,7 @@
 
 🚀 Building in my free time:
 - [Vulus App](https://play.google.com/store/apps/details?id=com.famisoft.yahfa) - Mobile application helping people to track and record saving
+- [Chartgg](https://chartgg.com) - Web app helping people to create chart quickly and beautifully
 
 ### What I'm up to
 - 🌱 Learning mobile development (Android)
