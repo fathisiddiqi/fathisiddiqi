@@ -9,7 +9,7 @@
 - [Chartgg](https://chartgg.com) - Web app helping people to create chart quickly and beautifully
 
 ### What I'm up to
-- 🌱 Learning mobile development (Android)
+- 🌱 Learning AI Engineering
 - 💡 Exploring backend, SQL, design system, architecture, etc.  
 
 ### Technical Skills
