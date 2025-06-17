@@ -4,11 +4,9 @@
 
 🏢 Currently, working at property company as a Software Engineer (Fullstack)
 
-🚀 Building in my free time:
+### Whats I'm building for 
 - [Vulus App](https://play.google.com/store/apps/details?id=com.famisoft.yahfa) - Mobile application helping people to track and record saving
-
-📭 Open Sources Maintain & Contributing:
-- [Chartgg](https://chartgg.com) - Web app helping people to create chart quickly and beautifully
+- [Chartgg](https://chartgg.com) - Web app helping people to create chart quickly and beautifully (Open Sourced)
 
 ### What I'm up to
 - 🌱 Learning AI Engineering
