@@ -4,10 +4,6 @@
 
 🏢 Currently, working at property company as a Software Engineer (Fullstack)
 
-### Whats I'm building for 
-- [Vulus App](https://play.google.com/store/apps/details?id=com.famisoft.yahfa) - Mobile application helping people to track and record expense, budget, saving
-- [ChartGG](https://chartgg.com/) - Web Apps helping peope to create chart
-
 ### Technical Skills
 <p align="left">
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg" alt="react" width="40" height="40"/>
@@ -22,8 +18,9 @@
 - **Mobile**: React Native
 - **Tools**: Git, Docker, VS Code, Android Studio
 
-### What I'm up to
-- 💡 Exploring backend, SQL, design system, architecture, etc.  
+### Whats I'm building for 
+- [Vulus App](https://play.google.com/store/apps/details?id=com.famisoft.yahfa) - Mobile application helping people to track and record expense, budget, saving
+- [ChartGG](https://chartgg.com/) - Web Apps helping peope to create chart
 
 ### Latest Blog Posts
 <!-- BLOG-POST-LIST:START -->
