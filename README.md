@@ -5,7 +5,8 @@
 🏢 Currently, working at property company as a Software Engineer (Fullstack)
 
 ### Whats I'm building for 
-- [Vulus App](https://play.google.com/store/apps/details?id=com.famisoft.yahfa) - Mobile application helping people to track and record saving
+- [Vulus App](https://play.google.com/store/apps/details?id=com.famisoft.yahfa) - Mobile application helping people to track and record expense, budget, saving
+- [ChartGG](https://chartgg.com/) - Web Apps helping peope to create chart
 
 ### Technical Skills
 <p align="left">
