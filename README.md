@@ -6,11 +6,6 @@
 
 ### Whats I'm building for 
 - [Vulus App](https://play.google.com/store/apps/details?id=com.famisoft.yahfa) - Mobile application helping people to track and record saving
-- [Chartgg](https://chartgg.com) - Web app helping people to create chart quickly and beautifully (Open Sourced)
-
-### What I'm up to
-- 🌱 Learning AI Engineering
-- 💡 Exploring backend, SQL, design system, architecture, etc.  
 
 ### Technical Skills
 <p align="left">
@@ -25,6 +20,9 @@
 - **Backend**: Go, Postgres, MongoDB
 - **Mobile**: React Native
 - **Tools**: Git, Docker, VS Code, Android Studio
+
+### What I'm up to
+- 💡 Exploring backend, SQL, design system, architecture, etc.  
 
 ### Latest Blog Posts
 <!-- BLOG-POST-LIST:START -->
