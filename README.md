@@ -13,8 +13,8 @@
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/android/android-original.svg" alt="android" width="40" height="40"/>
 </p>
 
-- **Frontend**: React, NextJS
-- **Backend**: Go, Postgres, MongoDB
+- **Frontend**: React, NextJS, VueJS
+- **Backend**: Go, Node, Postgres, MongoDB
 - **Mobile**: React Native
 - **Tools**: Git, Docker, VS Code, Android Studio
 
