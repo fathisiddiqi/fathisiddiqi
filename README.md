@@ -2,7 +2,7 @@
 
 ## Software Engineer passionate about building impactful solutions
 
-🏢 Currently, working at property company as a Software Engineer (Fullstack)
+🏢 Currently, working at real estate company as a Fullstack Engineer
 
 ### Technical Skills
 <p align="left">
