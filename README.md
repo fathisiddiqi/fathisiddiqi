@@ -19,8 +19,9 @@
 - **Tools**: Git, Docker, VS Code, Android Studio
 
 ### Whats I'm building for 
-- [Vulus App](https://play.google.com/store/apps/details?id=com.famisoft.yahfa) - expense, budget, and saving tracker
-- [ChartGG](https://chartgg.com/) - chart editor
+- [Cute Money](https://play.google.com/store/apps/details?id=com.famisoft.yahfa) - AI family expense, budget, and saving tracker
+- [Mimory]([https://chartgg.com/](https://play.google.com/store/apps/details?id=com.famisoft.kawsir) - AI Journal App
+- [Rekkap](https://rekkap.com) - Automatically track and organize orders from chat by AI
 
 ### Latest Blog Posts
 <!-- BLOG-POST-LIST:START -->
