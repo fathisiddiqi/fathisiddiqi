@@ -20,7 +20,7 @@
 
 ### Whats I'm building for 
 - [Cute Money](https://play.google.com/store/apps/details?id=com.famisoft.yahfa) - AI family expense, budget, and saving tracker
-- [Mimory](https://play.google.com/store/apps/details?id=com.famisoft.kawsir)(https://play.google.com/store/apps/details?id=com.famisoft.kawsir) - AI Journal App
+- [Mimory](https://play.google.com/store/apps/details?id=com.famisoft.kawsir) - AI Journal App
 - [Rekkap](https://rekkap.com) - Automatically track and organize orders from chat by AI
 
 ### Latest Blog Posts
